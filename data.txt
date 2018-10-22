@@ -1,0 +1,5 @@
+#This my first property file
+#Thu Sep 27 19:43:31 CAT 2018
+username=nasdvin
+pass=0000
+url=localsfghost\:3306/myDB

@@ -1,0 +1,101 @@
+Test
+Pizza name: Quattro Stagioni
+Base price: 3000.00
+
+Optionset: Pizza sizes
+Option: Small             0.00
+Option: Medium            1500.00
+Option: Large             2500.00
+
+Optionset: Meat choices
+Option: Beef              0.00
+Option: Ham               200.00
+Option: Pepperoni         1000.00
+Option: Sausage           600.00
+Option: Turkey            1200.00
+
+Optionset: Vegetable choices
+Option: Broccoli          0.00
+Option: Spinach           0.00
+Option: Brussels sprouts  0.00
+Option: mushroom          0.00
+
+Optionset: Cheese choices
+Option: Gouda             0.00
+Option: Babybel           1000.00
+Option: Provolone      	  2000.00
+
+Optionset: Delivery mode
+Option: Eat-in            0.00
+Option: Take-away         200.00
+Option: Delivered         1000.00
+
+Test
+Pizza name: Napoletana
+Base price: 4000.00
+
+Optionset: Size
+Option: Small             0.00
+Option: Medium            1000.00
+Option: Large             1500.00
+Option: Extra-large       2000.00
+
+Optionset: Meat choices
+Option: Mutton              0.00
+Option: Bacon               500.00
+Option: Pepperoni           1000.00
+Option: Beef                0.00
+Option: Jamon               350.00
+Option: Salami              700.00
+
+Optionset: Vegetable choices
+Option: Tomato sauce     0.00
+Option: mozzarella       600.00
+Option: oregano          0.00
+Option: anchovies        600.00
+Option: mushroom         0.00
+
+Optionset: Cheese choices
+Option: Camembert         0.00
+Option: Stracchino        1000.00
+Option: Manchego      	  2000.00
+
+Optionset: Delivery mode
+Option: Eat-in            0.00
+Option: Take-away         200.00
+Option: Delivered         1000.00
+
+
+Test
+Pizza name: Carbonara
+Base price: 2500.00
+
+Optionset: Size
+Option: Small             0.00
+Option: Medium            1000.00
+Option: Large             2000.00
+
+Optionset: Meat choices
+Option: Beef         0.00
+Option: Ham          800.00
+Option: bison        1250.00
+Option: lamb         1200.00
+
+Optionset: Vegetable choices
+Option: lettuce          0.00
+Option: spinach          0.00
+Option: silverbeet       0.00
+Option: cauliflower      0.00
+
+Optionset: Cheese choices
+Option: Regular cheese    0.00
+Option: Stracchino        1000.00
+Option: Cheddar        	  2000.00
+Option: Monterey Jack 	  2000.00
+
+Optionset: Delivery mode
+Option: Eat-in            0.00
+Option: Take-away         200.00
+Option: Delivered         1000.00
+
+End

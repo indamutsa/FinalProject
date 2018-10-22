@@ -1,0 +1,600 @@
+Sep 27, 2018 9:24:19 AM exceptions.IncorrectBasePricePizzaException fixError
+INFO: Incorrect base price exception
+Sep 27, 2018 9:24:19 AM exceptions.IncorrectOptionsetName fixError
+INFO: Unable to find the optionsetIndex specified
+Sep 27, 2018 9:24:30 AM exceptions.IncorrectBasePricePizzaException fixError
+INFO: Incorrect base price exception
+Sep 27, 2018 9:24:30 AM exceptions.IncorrectOptionsetName fixError
+INFO: Unable to find the optionsetIndex specified
+Sep 27, 2018 9:28:00 AM exceptions.IncorrectBasePricePizzaException fixError
+INFO: Incorrect base price exception
+Sep 27, 2018 9:28:00 AM exceptions.IncorrectOptionsetName fixError
+INFO: Unable to find the optionsetIndex specified
+Sep 27, 2018 9:32:12 AM exceptions.IncorrectBasePricePizzaException fixError
+INFO: Incorrect base price exception
+Sep 27, 2018 9:32:12 AM exceptions.IncorrectOptionsetName fixError
+INFO: Unable to find the optionsetIndex specified
+Sep 27, 2018 9:32:55 AM exceptions.IncorrectBasePricePizzaException fixError
+INFO: Incorrect base price exception
+Sep 27, 2018 9:32:55 AM exceptions.IncorrectOptionsetName fixError
+INFO: Unable to find the optionsetIndex specified
+Sep 27, 2018 9:34:14 AM exceptions.IncorrectBasePricePizzaException fixError
+INFO: Incorrect base price exception
+Sep 27, 2018 9:34:14 AM exceptions.IncorrectOptionsetName fixError
+INFO: Unable to find the optionsetIndex specified
+Sep 27, 2018 9:35:03 AM exceptions.IncorrectBasePricePizzaException fixError
+INFO: Incorrect base price exception
+Sep 27, 2018 9:35:03 AM exceptions.IncorrectOptionsetName fixError
+INFO: Unable to find the optionsetIndex specified
+Sep 27, 2018 9:35:43 AM exceptions.IncorrectBasePricePizzaException fixError
+INFO: Incorrect base price exception
+Sep 27, 2018 9:35:43 AM exceptions.IncorrectOptionsetName fixError
+INFO: Unable to find the optionsetIndex specified
+Sep 27, 2018 9:39:29 AM exceptions.IncorrectBasePricePizzaException fixError
+INFO: Incorrect base price exception
+Sep 27, 2018 9:39:30 AM exceptions.IncorrectOptionsetName fixError
+INFO: Unable to find the optionsetIndex specified
+Sep 27, 2018 9:40:22 AM exceptions.IncorrectBasePricePizzaException fixError
+INFO: Incorrect base price exception
+Sep 27, 2018 9:40:22 AM exceptions.IncorrectOptionsetName fixError
+INFO: Unable to find the optionsetIndex specified
+Sep 27, 2018 9:48:35 AM exceptions.IncorrectBasePricePizzaException fixError
+INFO: Incorrect base price exception
+Sep 27, 2018 9:48:35 AM exceptions.IncorrectOptionsetName fixError
+INFO: Unable to find the optionsetIndex specified
+Sep 27, 2018 9:50:21 AM exceptions.IncorrectBasePricePizzaException fixError
+INFO: Incorrect base price exception
+Sep 27, 2018 9:50:21 AM exceptions.IncorrectOptionsetName fixError
+INFO: Unable to find the optionsetIndex specified
+Sep 27, 2018 9:51:57 AM exceptions.IncorrectBasePricePizzaException fixError
+INFO: Incorrect base price exception
+Sep 27, 2018 9:51:57 AM exceptions.IncorrectOptionsetName fixError
+INFO: Unable to find the optionsetIndex specified
+Sep 27, 2018 11:41:10 AM exceptions.IncorrectBasePricePizzaException fixError
+INFO: Incorrect base price exception
+Sep 27, 2018 11:41:10 AM exceptions.IncorrectOptionsetName fixError
+INFO: Unable to find the optionsetIndex specified
+Sep 27, 2018 11:42:54 AM exceptions.IncorrectBasePricePizzaException fixError
+INFO: Incorrect base price exception
+Sep 27, 2018 11:42:55 AM exceptions.IncorrectOptionsetName fixError
+INFO: Unable to find the optionsetIndex specified
+Sep 27, 2018 11:44:16 AM exceptions.IncorrectBasePricePizzaException fixError
+INFO: Incorrect base price exception
+Sep 27, 2018 11:44:16 AM exceptions.IncorrectOptionsetName fixError
+INFO: Unable to find the optionsetIndex specified
+Sep 27, 2018 11:44:59 AM exceptions.IncorrectBasePricePizzaException fixError
+INFO: Incorrect base price exception
+Sep 27, 2018 11:44:59 AM exceptions.IncorrectOptionsetName fixError
+INFO: Unable to find the optionsetIndex specified
+Sep 27, 2018 11:47:17 AM exceptions.IncorrectBasePricePizzaException fixError
+INFO: Incorrect base price exception
+Sep 27, 2018 11:47:17 AM exceptions.IncorrectOptionsetName fixError
+INFO: Unable to find the optionsetIndex specified
+Sep 27, 2018 11:48:01 AM exceptions.IncorrectBasePricePizzaException fixError
+INFO: Incorrect base price exception
+Sep 27, 2018 11:48:02 AM exceptions.IncorrectOptionsetName fixError
+INFO: Unable to find the optionsetIndex specified
+Sep 27, 2018 1:01:05 PM exceptions.IncorrectBasePricePizzaException fixError
+INFO: Incorrect base price exception
+Sep 27, 2018 1:01:05 PM exceptions.IncorrectOptionsetName fixError
+INFO: Unable to find the optionsetIndex specified
+Sep 27, 2018 1:01:05 PM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Sep 27, 2018 1:13:07 PM exceptions.IncorrectBasePricePizzaException fixError
+INFO: Incorrect base price exception
+Sep 27, 2018 1:13:07 PM exceptions.IncorrectOptionsetName fixError
+INFO: Unable to find the optionsetIndex specified
+Sep 27, 2018 1:13:07 PM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Sep 27, 2018 1:13:34 PM exceptions.IncorrectBasePricePizzaException fixError
+INFO: Incorrect base price exception
+Sep 27, 2018 1:13:34 PM exceptions.IncorrectOptionsetName fixError
+INFO: Unable to find the optionsetIndex specified
+Sep 27, 2018 1:13:34 PM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Sep 27, 2018 1:14:49 PM exceptions.IncorrectBasePricePizzaException fixError
+INFO: Incorrect base price exception
+Sep 27, 2018 1:14:49 PM exceptions.IncorrectOptionsetName fixError
+INFO: Unable to find the optionsetIndex specified
+Sep 27, 2018 1:14:49 PM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Sep 27, 2018 1:16:47 PM exceptions.IncorrectBasePricePizzaException fixError
+INFO: Incorrect base price exception
+Sep 27, 2018 1:16:51 PM exceptions.IncorrectOptionsetName fixError
+INFO: Unable to find the optionsetIndex specified
+Sep 27, 2018 1:19:47 PM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Sep 27, 2018 1:21:34 PM exceptions.IncorrectBasePricePizzaException fixError
+INFO: Incorrect base price exception
+Sep 27, 2018 1:21:35 PM exceptions.IncorrectOptionsetName fixError
+INFO: Unable to find the optionsetIndex specified
+Sep 27, 2018 1:22:39 PM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Sep 27, 2018 1:22:49 PM exceptions.IncorrectBasePricePizzaException fixError
+INFO: Incorrect base price exception
+Sep 27, 2018 1:22:49 PM exceptions.IncorrectOptionsetName fixError
+INFO: Unable to find the optionsetIndex specified
+Sep 27, 2018 1:22:56 PM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Sep 27, 2018 1:23:21 PM exceptions.IncorrectBasePricePizzaException fixError
+INFO: Incorrect base price exception
+Sep 27, 2018 1:23:22 PM exceptions.IncorrectOptionsetName fixError
+INFO: Unable to find the optionsetIndex specified
+Sep 27, 2018 1:31:36 PM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Sep 27, 2018 1:32:09 PM exceptions.IncorrectBasePricePizzaException fixError
+INFO: Incorrect base price exception
+Sep 27, 2018 1:32:09 PM exceptions.IncorrectOptionsetName fixError
+INFO: Unable to find the optionsetIndex specified
+Sep 27, 2018 1:34:28 PM exceptions.IncorrectBasePricePizzaException fixError
+INFO: Incorrect base price exception
+Sep 27, 2018 1:34:28 PM exceptions.IncorrectOptionsetName fixError
+INFO: Unable to find the optionsetIndex specified
+Sep 27, 2018 1:37:49 PM exceptions.IncorrectBasePricePizzaException fixError
+INFO: Incorrect base price exception
+Sep 27, 2018 1:37:49 PM exceptions.IncorrectOptionsetName fixError
+INFO: Unable to find the optionsetIndex specified
+Sep 27, 2018 2:38:04 PM exceptions.IncorrectBasePricePizzaException fixError
+INFO: Incorrect base price exception
+Sep 27, 2018 2:38:04 PM exceptions.IncorrectOptionsetName fixError
+INFO: Unable to find the optionsetIndex specified
+Sep 27, 2018 2:38:45 PM exceptions.IncorrectBasePricePizzaException fixError
+INFO: Incorrect base price exception
+Sep 27, 2018 2:38:45 PM exceptions.IncorrectOptionsetName fixError
+INFO: Unable to find the optionsetIndex specified
+Sep 27, 2018 3:03:04 PM exceptions.IncorrectBasePricePizzaException fixError
+INFO: Incorrect base price exception
+Sep 27, 2018 3:03:04 PM exceptions.IncorrectOptionsetName fixError
+INFO: Unable to find the optionsetIndex specified
+Sep 27, 2018 3:03:51 PM exceptions.IncorrectBasePricePizzaException fixError
+INFO: Incorrect base price exception
+Sep 27, 2018 3:03:51 PM exceptions.IncorrectOptionsetName fixError
+INFO: Unable to find the optionsetIndex specified
+Sep 27, 2018 3:09:10 PM exceptions.IncorrectBasePricePizzaException fixError
+INFO: Incorrect base price exception
+Sep 27, 2018 3:09:10 PM exceptions.IncorrectOptionsetName fixError
+INFO: Unable to find the optionsetIndex specified
+Sep 27, 2018 3:09:47 PM exceptions.IncorrectBasePricePizzaException fixError
+INFO: Incorrect base price exception
+Sep 27, 2018 3:09:47 PM exceptions.IncorrectOptionsetName fixError
+INFO: Unable to find the optionsetIndex specified
+Sep 27, 2018 5:18:14 PM exceptions.IncorrectBasePricePizzaException fixError
+INFO: Incorrect base price exception
+Sep 27, 2018 5:18:14 PM exceptions.IncorrectOptionsetName fixError
+INFO: Unable to find the optionsetIndex specified
+Sep 27, 2018 5:19:07 PM exceptions.IncorrectBasePricePizzaException fixError
+INFO: Incorrect base price exception
+Sep 27, 2018 5:19:07 PM exceptions.IncorrectOptionsetName fixError
+INFO: Unable to find the optionsetIndex specified
+Sep 27, 2018 5:19:28 PM exceptions.IncorrectBasePricePizzaException fixError
+INFO: Incorrect base price exception
+Sep 27, 2018 5:19:28 PM exceptions.IncorrectOptionsetName fixError
+INFO: Unable to find the optionsetIndex specified
+Sep 27, 2018 5:22:16 PM exceptions.IncorrectBasePricePizzaException fixError
+INFO: Incorrect base price exception
+Sep 27, 2018 5:22:16 PM exceptions.IncorrectOptionsetName fixError
+INFO: Unable to find the optionsetIndex specified
+Sep 27, 2018 5:22:16 PM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Sep 27, 2018 5:23:48 PM exceptions.IncorrectBasePricePizzaException fixError
+INFO: Incorrect base price exception
+Sep 27, 2018 5:23:48 PM exceptions.IncorrectOptionsetName fixError
+INFO: Unable to find the optionsetIndex specified
+Sep 27, 2018 5:24:26 PM exceptions.IncorrectBasePricePizzaException fixError
+INFO: Incorrect base price exception
+Sep 27, 2018 5:24:27 PM exceptions.IncorrectOptionsetName fixError
+INFO: Unable to find the optionsetIndex specified
+Sep 27, 2018 5:25:21 PM exceptions.IncorrectBasePricePizzaException fixError
+INFO: Incorrect base price exception
+Sep 27, 2018 5:25:21 PM exceptions.IncorrectOptionsetName fixError
+INFO: Unable to find the optionsetIndex specified
+Sep 27, 2018 5:27:42 PM exceptions.IncorrectBasePricePizzaException fixError
+INFO: Incorrect base price exception
+Sep 27, 2018 5:27:42 PM exceptions.IncorrectOptionsetName fixError
+INFO: Unable to find the optionsetIndex specified
+Sep 27, 2018 5:28:11 PM exceptions.IncorrectBasePricePizzaException fixError
+INFO: Incorrect base price exception
+Sep 27, 2018 5:28:11 PM exceptions.IncorrectOptionsetName fixError
+INFO: Unable to find the optionsetIndex specified
+Sep 27, 2018 5:29:15 PM exceptions.IncorrectBasePricePizzaException fixError
+INFO: Incorrect base price exception
+Sep 27, 2018 5:29:15 PM exceptions.IncorrectOptionsetName fixError
+INFO: Unable to find the optionsetIndex specified
+Oct 02, 2018 7:19:12 PM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 02, 2018 7:24:58 PM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 02, 2018 7:40:20 PM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 02, 2018 7:48:30 PM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 03, 2018 6:48:16 PM exceptions.IncorrectBasePricePizzaException fixError
+INFO: Incorrect base price exception
+Oct 03, 2018 6:48:17 PM exceptions.IncorrectOptionsetName fixError
+INFO: Unable to find the optionsetIndex specified
+Oct 03, 2018 10:52:47 PM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 03, 2018 10:58:44 PM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 03, 2018 11:05:05 PM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 03, 2018 11:05:05 PM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 03, 2018 11:58:53 PM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 04, 2018 12:06:48 AM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 04, 2018 12:06:48 AM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 04, 2018 12:12:06 AM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 04, 2018 12:19:24 AM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 04, 2018 12:19:24 AM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 04, 2018 12:32:27 AM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 04, 2018 12:32:27 AM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 04, 2018 12:34:26 AM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 04, 2018 12:34:26 AM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 04, 2018 12:37:26 AM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 04, 2018 12:48:14 AM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 04, 2018 12:48:14 AM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 04, 2018 12:52:27 AM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 04, 2018 12:52:27 AM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 04, 2018 1:20:34 AM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 04, 2018 1:31:17 AM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 04, 2018 1:31:17 AM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 04, 2018 2:20:25 AM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 04, 2018 10:18:42 AM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 04, 2018 1:59:12 PM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 06, 2018 12:53:24 PM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 06, 2018 1:06:09 PM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 06, 2018 1:12:16 PM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 06, 2018 1:16:12 PM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 06, 2018 1:24:09 PM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 06, 2018 1:28:18 PM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 06, 2018 1:45:44 PM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 06, 2018 1:59:24 PM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 06, 2018 2:01:00 PM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 06, 2018 2:05:24 PM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 06, 2018 2:06:49 PM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 06, 2018 2:37:53 PM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 06, 2018 3:31:12 PM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 07, 2018 2:31:42 PM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 07, 2018 2:32:15 PM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 07, 2018 2:42:12 PM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 07, 2018 2:42:54 PM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 07, 2018 2:56:05 PM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 07, 2018 2:56:11 PM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 07, 2018 2:56:11 PM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 07, 2018 3:00:42 PM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 07, 2018 3:00:46 PM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 07, 2018 3:00:46 PM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 07, 2018 3:00:46 PM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 07, 2018 3:00:46 PM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 07, 2018 3:00:47 PM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 07, 2018 3:00:47 PM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 07, 2018 3:00:47 PM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 07, 2018 3:00:47 PM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 07, 2018 3:00:48 PM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 07, 2018 3:02:32 PM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 07, 2018 3:02:37 PM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 07, 2018 3:02:37 PM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 07, 2018 3:02:37 PM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 07, 2018 3:02:38 PM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 07, 2018 3:03:45 PM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 07, 2018 3:03:45 PM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 07, 2018 3:05:11 PM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 07, 2018 3:05:12 PM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 07, 2018 3:05:12 PM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 07, 2018 3:05:15 PM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 07, 2018 3:05:15 PM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 07, 2018 3:06:41 PM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 07, 2018 3:06:41 PM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 07, 2018 3:06:41 PM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 07, 2018 3:07:04 PM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 07, 2018 3:07:05 PM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 07, 2018 3:08:05 PM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 07, 2018 3:08:06 PM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 07, 2018 3:08:06 PM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 07, 2018 3:08:06 PM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 07, 2018 3:15:07 PM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 07, 2018 3:15:10 PM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 07, 2018 3:15:10 PM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 07, 2018 3:16:28 PM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 07, 2018 3:16:32 PM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 07, 2018 3:16:32 PM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 07, 2018 3:16:46 PM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 07, 2018 3:16:48 PM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 07, 2018 3:16:48 PM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 07, 2018 3:16:48 PM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 07, 2018 3:16:48 PM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 07, 2018 3:16:59 PM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 07, 2018 3:17:00 PM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 07, 2018 3:17:00 PM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 07, 2018 3:17:00 PM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 07, 2018 3:17:01 PM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 07, 2018 3:19:26 PM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 07, 2018 3:19:49 PM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 07, 2018 3:19:55 PM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 07, 2018 3:19:55 PM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 07, 2018 3:19:56 PM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 07, 2018 3:20:53 PM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 07, 2018 3:20:53 PM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 07, 2018 3:21:19 PM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 07, 2018 3:21:20 PM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 07, 2018 3:21:20 PM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 07, 2018 3:22:31 PM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 07, 2018 3:22:32 PM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 07, 2018 3:22:58 PM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 07, 2018 3:23:02 PM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 07, 2018 3:23:03 PM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 07, 2018 3:23:03 PM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 07, 2018 3:23:03 PM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 07, 2018 3:23:03 PM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 07, 2018 3:23:03 PM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 07, 2018 3:24:20 PM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 07, 2018 3:24:31 PM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 07, 2018 3:25:58 PM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 07, 2018 3:26:44 PM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 07, 2018 3:26:55 PM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 07, 2018 3:27:26 PM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 07, 2018 3:29:46 PM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 07, 2018 3:29:46 PM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 07, 2018 3:30:05 PM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 07, 2018 3:30:59 PM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 07, 2018 3:32:31 PM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 07, 2018 3:33:23 PM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 07, 2018 3:33:45 PM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 07, 2018 3:33:51 PM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 07, 2018 3:35:34 PM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 07, 2018 3:35:44 PM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 07, 2018 3:37:20 PM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 07, 2018 3:38:00 PM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 07, 2018 3:38:43 PM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 07, 2018 3:42:41 PM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 07, 2018 3:43:03 PM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 07, 2018 3:43:57 PM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 07, 2018 3:45:09 PM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 07, 2018 3:49:05 PM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 07, 2018 3:54:17 PM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 07, 2018 3:54:27 PM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 07, 2018 3:54:29 PM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 07, 2018 3:54:29 PM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 07, 2018 4:02:58 PM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 07, 2018 4:17:12 PM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 07, 2018 4:17:12 PM exceptions.IncorrectBasePricePizzaException fixError
+INFO: Incorrect base price exception
+Oct 07, 2018 4:17:14 PM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 07, 2018 4:17:14 PM exceptions.IncorrectBasePricePizzaException fixError
+INFO: Incorrect base price exception
+Oct 07, 2018 4:18:08 PM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 07, 2018 4:18:08 PM exceptions.IncorrectBasePricePizzaException fixError
+INFO: Incorrect base price exception
+Oct 07, 2018 4:20:12 PM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 07, 2018 4:20:12 PM exceptions.IncorrectBasePricePizzaException fixError
+INFO: Incorrect base price exception
+Oct 07, 2018 4:20:35 PM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 07, 2018 4:20:35 PM exceptions.IncorrectBasePricePizzaException fixError
+INFO: Incorrect base price exception
+Oct 07, 2018 9:22:28 PM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 07, 2018 9:22:29 PM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 07, 2018 9:22:30 PM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 07, 2018 9:22:30 PM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 07, 2018 9:22:40 PM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 07, 2018 9:22:40 PM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 07, 2018 9:22:40 PM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 07, 2018 9:22:40 PM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 07, 2018 9:26:09 PM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 07, 2018 9:29:05 PM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 07, 2018 9:29:10 PM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 07, 2018 9:29:10 PM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 07, 2018 9:29:11 PM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 07, 2018 9:29:11 PM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 07, 2018 9:29:11 PM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 07, 2018 9:29:11 PM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 07, 2018 9:29:11 PM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 07, 2018 9:29:45 PM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 07, 2018 9:29:45 PM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 07, 2018 9:29:46 PM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 07, 2018 9:39:17 PM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 07, 2018 9:39:17 PM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 07, 2018 9:39:17 PM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 08, 2018 10:40:07 AM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 08, 2018 12:50:20 PM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 08, 2018 12:50:20 PM exceptions.IncorrectBasePricePizzaException fixError
+INFO: Incorrect base price exception
+Oct 08, 2018 12:50:29 PM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 08, 2018 12:50:29 PM exceptions.IncorrectBasePricePizzaException fixError
+INFO: Incorrect base price exception
+Oct 08, 2018 12:59:13 PM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 08, 2018 12:59:13 PM exceptions.IncorrectBasePricePizzaException fixError
+INFO: Incorrect base price exception
+Oct 08, 2018 5:26:48 PM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 08, 2018 5:29:23 PM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 08, 2018 5:32:22 PM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 08, 2018 5:33:36 PM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 08, 2018 6:02:37 PM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 08, 2018 6:03:02 PM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 08, 2018 6:06:50 PM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 08, 2018 7:20:41 PM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 08, 2018 7:21:42 PM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 08, 2018 7:22:51 PM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 08, 2018 7:43:40 PM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 16, 2018 10:46:45 PM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception
+Oct 22, 2018 11:27:44 PM exceptions.AlreadyExistConfig fixError
+INFO: Duplicate pizzeria configuration exception

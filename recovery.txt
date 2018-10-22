@@ -1,0 +1,16 @@
+Test
+Pizza name: Capricciosa
+Base price: 3000.00
+
+Optionset: size
+Option: Small             0.00
+Option: Medium            0.00
+Option: Large             1000.00
+
+Optionset: Meat choices
+Option: Beef              0.00
+Option: Ham               200.00
+Option: Pepperoni         1000.00
+Option: Sausage           0.00
+Option: Turkey            800.00
+End
